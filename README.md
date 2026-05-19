@@ -48,10 +48,10 @@ Pada tampilan ini, jika memilih tipe grafik "Bar Chart — Metode Pembayaran". V
 ![alt text](<Screenshot/Tampilan Setelah Memilih Filter Kontrol 1.png>)
 Pada tampilan ini, salah satu filter pada panel kontrol telah dipilih. Langsung setelahnya, seluruh isi dashboard berubah secara otomatis. Angka pada kartu ringkasan langsung berkurang karena menyesuaikan dengan data yang terfilter. Grafik batang juga hanya menampilkan kategori produk yang ada di dalam filter tersebut, dan tabel data di bagian bawah hanya memunculkan baris-baris yang memenuhi kriteria filter saja.
 7. Tampilan Setelah Memilih Filter Kontrol 2
-![alt text](<Screenshot/Tampilan Setelah Memilih Filter Kontrol 2.png>)
+![alt text](<Screenshot/Tampilan Setelah Memilihi Filter Kontrol 2.png>)
 Tampilan ini menunjukkan penggunaan filter yang berbeda dari sebelumnya. Terlihat bahwa pilihan filter baru menghasilkan kombinasi data yang berbeda pula. Grafik batang dengan cepat menggambar ulang batangnya untuk menampilkan data kategori yang relevan saja, begitu pula dengan isi tabel yang langsung berganti tanpa perlu me-refresh halaman.
 8. Tampilan Setelah Memilih Filter Kontrol 3
-![alt text](<Screenshot/Tampilan Setelah Memilih Filter Kontrol 3.png>)
+![alt text](<Screenshot/Tampilan Setelah Memilihi Filter Kontrol 3.png>)
 Pada tangkapan layar ini, filter diubah lagi ke kategori yang lain. Hal ini membuktikan bahwa fitur filter berjalan dengan sangat responsif. Setiap pergantian pilihan dropdown langsung memicu perhitungan ulang terhadap data yang ditampilkan, sehingga pengguna bisa dengan leluasa mengeksplorasi data dari berbagai sudut pandang hanya dengan mengklik pilihan filter.
 9. Tampilan Setelah Memilih 
 ![alt text](<Screenshot/Tampilan Setelah Memilihi Filter Kontrol dengan 100% Chart.png>)
