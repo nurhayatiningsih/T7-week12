@@ -53,7 +53,7 @@ Tampilan ini menunjukkan penggunaan filter yang berbeda dari sebelumnya. Terliha
 8. Tampilan Setelah Memilih Filter Kontrol 3
 ![alt text](<Screenshot/Tampilan Setelah Memilihi Filter Kontrol 3.png>)
 Pada tangkapan layar ini, filter diubah lagi ke kategori yang lain. Hal ini membuktikan bahwa fitur filter berjalan dengan sangat responsif. Setiap pergantian pilihan dropdown langsung memicu perhitungan ulang terhadap data yang ditampilkan, sehingga pengguna bisa dengan leluasa mengeksplorasi data dari berbagai sudut pandang hanya dengan mengklik pilihan filter.
-9. Tampilan Setelah Memilih 
+9. Tampilan Setelah Memilih Filter dengan 100% Chart
 ![alt text](<Screenshot/Tampilan Setelah Memilihi Filter Kontrol dengan 100% Chart.png>)
 Tampilan ini menunjukkan hasil filter yang sangat spesifik, di mana data yang tersisa hanya berasal dari satu cabang saja. Karena hanya ada satu cabang yang tersedia, pie chart yang ditampilkan menunjukkan persentase penuh 100% pada cabang tersebut. Hal ini menunjukkan bagaimana dashboard merespons kondisi data yang sangat sempit namun tetap akurat.
 10. Tampilan Tidak Ada Data
